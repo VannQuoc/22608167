@@ -2,4 +2,3 @@ telebot
 requests
 flask
 uuid
-threading

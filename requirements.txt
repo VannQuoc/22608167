@@ -1,0 +1,6 @@
+telebot
+requests
+flask
+uuid
+subprocess
+threading
